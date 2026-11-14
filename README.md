@@ -16,6 +16,8 @@ Chaque TP est publié sur sa **propre branche**.
 | `main` | TP 1 — Exploration d'un jeu de données (`clients.csv`) |
 | `tp1` | TP 1 + son corrigé (`correction/`) |
 | `tp2` | TP 2 — Nettoyer, imputer, visualiser (`TP2/FR`, `TP2/EN`) |
+| `tp3` | TP 3 — Normaliser et encoder (`TP3/FR`, `TP3/EN`) |
+| `tp4` | TP 4 — Corrélation et régression linéaire (`TP4/FR`, `TP4/EN`) |
 
 Les notebooks existent en français et en anglais (dossiers `FR` / `EN` quand les deux versions existent).
 
@@ -95,6 +97,8 @@ Each lab is published on its **own branch**.
 | `main` | Lab 1 — Exploring a dataset (`clients.csv`) |
 | `tp1` | Lab 1 + its solution (`correction/`) |
 | `tp2` | Lab 2 — Clean, impute, visualise (`TP2/FR`, `TP2/EN`) |
+| `tp3` | Lab 3 — Scale and encode (`TP3/FR`, `TP3/EN`) |
+| `tp4` | Lab 4 — Correlation and linear regression (`TP4/FR`, `TP4/EN`) |
 
 Notebooks exist in French and English (`FR` / `EN` folders when both versions exist).
 
